@@ -1,10 +1,10 @@
 ---
 lab:
-  title: Erstellen einer Knowledge Mining-Lösung
+  title: Erstellen einer Lösung für die Wissensgewinnung
   description: "Verwenden Sie die Azure\_KI-Suche, um wichtige Informationen aus Dokumenten zu extrahieren und die Suche und Analyse zu vereinfachen."
 ---
 
-# Erstellen einer Knowledge Mining-Lösung
+# Erstellen einer Lösung für die Wissensgewinnung
 
 In dieser Übung verwenden Sie die KI-Suche, um eine Reihe von Dokumenten zu indizieren, die von Margie's Travel, einem fiktiven Reisebüro, verwaltet werden. Der Indizierungsprozess umfasst die Verwendung von KI-Fähigkeiten, um wichtige Informationen zu extrahieren, sie in eine durchsuchbare Form zu bringen und einen Wissensspeicher mit Datenressourcen für die weitere Analyse zu generieren.
 
@@ -152,7 +152,7 @@ Nachdem sich die Dokumente nun am gewünschten Ort befinden, können Sie einen I
     - Ausführen des Skillset für kognitive Skills aus, um zusätzliche angereicherte Felder zu generieren
     - Zuordnen der extrahierten Felder zum Index
     - Speichert die extrahierten Datenressourcen im Wissensspeicher.
-1. Zeigen Sie im Navigationsbereich auf der linken Seite unter **Suchverwaltung** die Seite **Indexer** an, auf der der neu erstellte Indexer **margies-indexer** angezeigt werden sollen. Klicken Sie nach einigen Minuten auf **&orarr; Aktualisieren**, bis der **Status** **Erfolgreich** angezeigt wird.
+1. Zeigen Sie im Navigationsbereich auf der linken Seite unter **Suchverwaltung** die Seite **Indexer** an, auf der der neu erstellte Indexer **margies-indexer** angezeigt werden sollen. Warten Sie einige Minuten, und klicken Sie auf **&#8635; Aktualisieren**, bis der **Status** **Erfolgreich** angezeigt wird.
 
 ## Durchsuchen des Index
 
