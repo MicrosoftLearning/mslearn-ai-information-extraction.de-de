@@ -76,6 +76,16 @@ Ihre Knowledge Mining-Lösung extrahiert Informationen aus Reiseprospektdokument
 Nachdem sich die Dokumente nun am gewünschten Ort befinden, können Sie einen Indexer erstellen, um Informationen daraus zu extrahieren.
 
 1. Navigieren Sie im Azure-Portal zu Ihrer Azure KI-Suche-Ressource. Wählen Sie dann auf der Seite **Übersicht** der Ressource **Daten importieren** aus.
+
+    ![Screenshot: Azure Search-Diensts mit Hervorhebung von „Importieren von Daten“](./media/overview-panel.png)
+    
+    > **Hinweis:** Auf der Seite **Übersicht** Ihrer Ressource von Azure KI-Suche bietet die Symbolleiste zwei Optionen:  
+    > - **Importieren von Daten** (klassische Benutzeroberfläche)  
+    > - **Importieren von Daten (neu)** (neue Benutzeroberfläche)  
+    >  
+    > Darüber hinaus enthält das Panel **Erste Schritte** unterhalb des Abschnitts „Übersicht“ die Schaltfläche **Importieren**, die Sie zur **neuen Benutzeroberfläche** weiterleitet.  
+    >  
+    > Die Anweisungen in diesem Kurs beziehen sich auf den **klassischen Workflow zum Importieren von Daten**. Um Verwirrung zu vermeiden, stellen Sie sicher, dass Sie auf der Symbolleiste die Option **Importieren von Daten** auswählen.
 1. Wählen Sie auf der Seite **Mit Ihren Daten verbinden** in der Liste **Datenquelle** die Option **Azure Blob Storage** aus. Vervollständigen Sie dann die Datenspeicherdetails mit den folgenden Werten:
     - **Datenquelle**: Azure Blob Storage
     - **Datenquellenname**: `margies-documents`
